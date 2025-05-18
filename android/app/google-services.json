@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "96755432259",
+    "firebase_url": "https://mad-project-38adf-default-rtdb.firebaseio.com",
+    "project_id": "mad-project-38adf",
+    "storage_bucket": "mad-project-38adf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96755432259:android:1752de529f39d1d7d9cdf6",
+        "android_client_info": {
+          "package_name": "com.example.mad_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIe2Uh5_OPITgZu-qinPxWKHXYinnPUl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96755432259:android:1229aec3cc2b4aecd9cdf6",
+        "android_client_info": {
+          "package_name": "emart.appV1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIe2Uh5_OPITgZu-qinPxWKHXYinnPUl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
